@@ -1,5 +1,7 @@
 # A Resource Focused Synthetic Control Group Analysis on The Economic Effects of Peace Keeping Missions in the DRC And the Ivory Coast
 
+My code is contained in the file `Analysis.m`.
+
 Both the statistics on the Output-side real GDP at chained PPPs, and the population of each country, were retrieved from the Penn World Table data set (version 10.01).
 
 To create the resource-based synthetic countries I used the total natural resource rents as a percentage of the country’s GDP. This data was retrieved from the World Bank Group DataBank.
